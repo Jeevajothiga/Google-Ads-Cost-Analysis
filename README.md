@@ -91,7 +91,7 @@ Create visualizations based on the guide in the tableau_steps.md file
  ├── 📄 README.md          # Project Documentation
  ├── 📄 google_ads_analysis.ipynb  # Jupyter Notebook for Analysis
  ├── 📄 cleaned_google_ads_data.csv  # Cleaned dataset
- ├── 📊 tableau_dashboard.twbx  # Tableau Workbook
+ ├── 📊 tableau_dashboard.twb  # Tableau Workbook
 
 
 📌 Future Improvements
