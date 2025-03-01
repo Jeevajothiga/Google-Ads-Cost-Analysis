@@ -29,8 +29,6 @@ geo_targeting_included: The regions where the ad was displayed
 
 Python: Data cleaning & analysis (pandas, numpy, seaborn)
 
-SQL: Querying insights
-
 Tableau: Data visualization & dashboards
 
 GitHub: Version control & documentation
