@@ -100,14 +100,5 @@ Create visualizations based on the guide in the tableau_steps.md file
 ✅ Predict which ad type performs best using Machine Learning
 ✅ Automate data pipeline using SQL & Google BigQuery
 
-🔗 Project Links
-
-🔗 GitHub Repository: [your GitHub link here]
-🔗 Tableau Dashboard: [your Tableau Public link here]
-🔗 LinkedIn Post: [your LinkedIn post link here]
-
-🤝 Connect With Me
-
-🔗 LinkedIn🔗 GitHub
 
 📢 If you found this project useful, don’t forget to ⭐ the repository!
